@@ -1,0 +1,23 @@
+[
+  {
+    "id": "S1zRQUfVIlBm2Nny7jKCl",
+    "firstName": "Jianru",
+    "lastName": "Beyer",
+    "favoriteLanguage": "JavaScript",
+    "isStudent": true
+  },
+  {
+    "id": "ZPCsyU7DxH2586QF9gKVg",
+    "firstName": "John",
+    "lastName": "Beryer",
+    "favoriteLanguage": "JavaScript",
+    "isStudent": true
+  },
+  {
+    "id": "IKlSjvb-kg30k1qMRMSmn",
+    "firstName": "Jianru",
+    "lastName": "Beyer",
+    "favoriteLanguage": "Python",
+    "isStudent": true
+  }
+]
